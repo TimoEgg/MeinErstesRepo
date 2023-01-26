@@ -1,7 +1,7 @@
 # Milchkönig
 
 ## Ziel
-Das Ziel dieser Website ist ein wenig programieren zulernen.
+Das Ziel dieser Website ist ein wenig programmieren zulernen.
 
 ## Autoren 
 * Ich
